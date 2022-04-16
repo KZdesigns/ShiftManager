@@ -64,9 +64,9 @@
             this.labelShiftNumber.AutoSize = true;
             this.labelShiftNumber.Location = new System.Drawing.Point(100, 111);
             this.labelShiftNumber.Name = "labelShiftNumber";
-            this.labelShiftNumber.Size = new System.Drawing.Size(68, 13);
+            this.labelShiftNumber.Size = new System.Drawing.Size(117, 13);
             this.labelShiftNumber.TabIndex = 2;
-            this.labelShiftNumber.Text = "Shift Number";
+            this.labelShiftNumber.Text = "Shift: Day (1) : Night (2)";
             // 
             // labelHourlyRate
             // 
@@ -79,28 +79,28 @@
             // 
             // textBoxName
             // 
-            this.textBoxName.Location = new System.Drawing.Point(199, 47);
+            this.textBoxName.Location = new System.Drawing.Point(223, 45);
             this.textBoxName.Name = "textBoxName";
             this.textBoxName.Size = new System.Drawing.Size(161, 20);
             this.textBoxName.TabIndex = 4;
             // 
             // textBoxEmployeeNumber
             // 
-            this.textBoxEmployeeNumber.Location = new System.Drawing.Point(199, 77);
+            this.textBoxEmployeeNumber.Location = new System.Drawing.Point(223, 77);
             this.textBoxEmployeeNumber.Name = "textBoxEmployeeNumber";
             this.textBoxEmployeeNumber.Size = new System.Drawing.Size(161, 20);
             this.textBoxEmployeeNumber.TabIndex = 5;
             // 
             // textBoxShiftNumber
             // 
-            this.textBoxShiftNumber.Location = new System.Drawing.Point(199, 108);
+            this.textBoxShiftNumber.Location = new System.Drawing.Point(223, 108);
             this.textBoxShiftNumber.Name = "textBoxShiftNumber";
             this.textBoxShiftNumber.Size = new System.Drawing.Size(161, 20);
             this.textBoxShiftNumber.TabIndex = 6;
             // 
             // textBoxHourlyRate
             // 
-            this.textBoxHourlyRate.Location = new System.Drawing.Point(199, 138);
+            this.textBoxHourlyRate.Location = new System.Drawing.Point(223, 134);
             this.textBoxHourlyRate.Name = "textBoxHourlyRate";
             this.textBoxHourlyRate.Size = new System.Drawing.Size(161, 20);
             this.textBoxHourlyRate.TabIndex = 7;
